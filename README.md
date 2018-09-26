@@ -9,6 +9,10 @@ Header-only heriarchical FSM framework in C++14, completely static (no dynamic a
 
 ## Compiler Support
 
+DEPRECATED, FURTHER DEVELOPMENT CONTINUES IN [HFSM2](https://github.com/andrew-gresyk/HFSM2)
+
+## Compiler Support
+
 - Visual Studio 14.u3, 15.7
 - GCC 4.9, 5.4, 6.3, 7.3, 8.0
 - Clang 3.6, 3.7, 3.8, 3.9, 4.0, 5.0, 6.0
